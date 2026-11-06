@@ -1,0 +1,7 @@
+Ashwood-Rtr#show ip nat statistics
+Total translations: 0 (0 static, 0 dynamic, 0 extended)
+Outside Interfaces: GigabitEthernet0/0
+Inside Interfaces: GigabitEthernet0/1.10 , GigabitEthernet0/1.20
+Hits: 0  Misses: 1
+Expired translations: 0
+Dynamic mappings:
